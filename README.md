@@ -4,3 +4,4 @@ Me enfoco en desarrollo de frontend y backend utlizo HTML, CSS y Javascript, imp
   
 Backend que utilizo es PHP y Python, Laravel con PHP y Python con Django asi puedo crear software que cumplan la arquitectura cliente y servidor
 </p>
+<a href="https://platzi.com/p/desarrollador_sgo/"> Mi perfil en platzi</p>
