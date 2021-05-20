@@ -46,4 +46,7 @@ Aplicaciones de escritorio con Java SE utlizando el paradigma orientado a objeto
 - Curso Práctico de React JS ✔
 - Curso Profesional de JavaScript ✔
 - Curso Profesional de Scrum ✔
+- Curso de Desarrollo en Laravel con Test Driven Development ✔
+- Curso de Administración de Actividades con Trello ✔
+- Curso de Atención al Cliente y Soporte a Usuarios ✔
 
