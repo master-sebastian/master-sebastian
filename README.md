@@ -1,6 +1,6 @@
 ### BIENVENIDOS A MIS REPOSITORIOS EN GITHUG SOY SEBASTIAN GUTIERREZ INGENIERO DE SISTEMAS😎
 ```javascript
-console.log("Hola a todos estos son mis respositorios en github, espero que les agraden 👍")
+console.log("Hola a todos estos son mis repositorios en github, espero que les agraden 👍")
 ```
 <p>
 Me enfoco en desarrollo de frontend y backend utlizo HTML, CSS y Javascript, implemento el pre-procesador de less para que mis proyectos sean escalables a largo plazo, ademas de incorporar el Vue.js cli cuando necesito realizar algunos componentes basico para mis interfaces de usuario, manejo motores de base de datos relacionales como mysql y postgres, y en motores de base datos no relacionales utlizo el famoso MongoDB.
